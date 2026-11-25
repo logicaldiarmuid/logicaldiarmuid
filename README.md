@@ -8,7 +8,7 @@ These days I also build products of my own with **Claude Code**.
 
 ### What I'm building
 
-- **[Brain Box](https://www.thelogicaloperators.com/brain-box/)**: a live quiz web app for home-schooling families. About 4,000 questions across 20 subjects, family accounts, row-level security, an admin console and encrypted backups. *JavaScript · Supabase / Postgres · GitHub Actions · Azure*
+- **[Brain Box](https://www.thelogicaloperators.com/brain-box/)**: a quiz web app for home-schooling families, live and in user acceptance testing (UAT). About 4,000 questions across 20 subjects, family accounts, row-level security, an admin console and encrypted backups. *JavaScript · Supabase / Postgres · GitHub Actions · Azure*
 - **Daemon Station** *(private)*: a trading research engine in C# / .NET 10. Its layered architecture is enforced by architecture tests, with 29 specs and over 1,500 tests. It cannot place live orders, by design.
 - **[pdf2md](https://github.com/logicaldiarmuid/pdf2md)**: turns long PDFs into clean Markdown that AI can read cheaply. CLI, MCP server and Claude Code skill. *Python · PyMuPDF*
 
